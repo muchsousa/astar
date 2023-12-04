@@ -1,0 +1,14 @@
+{
+  "name": "a-star",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "author": "Bruno Much <muchsousa@gmail.com>",
+  "license": "ISC"
+}
